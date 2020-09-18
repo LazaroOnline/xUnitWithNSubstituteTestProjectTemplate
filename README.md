@@ -1,4 +1,4 @@
-# xUnitTestProjectTemplate
+# xUnitWithNSubstituteTestProjectTemplate
 
 ## License
 

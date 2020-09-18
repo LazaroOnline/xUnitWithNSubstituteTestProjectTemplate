@@ -13,8 +13,8 @@
     <ProjectGuid>{37A212F6-5A8A-4146-B091-742D9FACA31D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>xUnitTestProjectTemplate.VSIXProject</RootNamespace>
-    <AssemblyName>xUnitTestProjectTemplate.VSIXProject</AssemblyName>
+    <RootNamespace>xUnitWithNSubstituteTestProjectTemplate.VSIXProject</RootNamespace>
+    <AssemblyName>xUnitWithNSubstituteTestProjectTemplate.VSIXProject</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <GeneratePkgDefFile>true</GeneratePkgDefFile>
     <GeneratePkgDefFile>false</GeneratePkgDefFile>
@@ -71,9 +71,9 @@
     <PackageReference Include="Microsoft.VSSDK.BuildTools" Version="17.1.4054" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\xUnitTestProjectTemplate\xUnitTestProjectTemplate.csproj">
+    <ProjectReference Include="..\xUnitWithNSubstituteTestProjectTemplate\xUnitWithNSubstituteTestProjectTemplate.csproj">
       <Project>{8AABE172-8EEC-48C8-8166-10DE20F6F188}</Project>
-      <Name>xUnitTestProjectTemplate</Name>
+      <Name>xUnitWithNSubstituteTestProjectTemplate</Name>
       <VSIXSubPath>ProjectTemplates</VSIXSubPath>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <IncludeOutputGroupsInVSIX>TemplateProjectOutputGroup%3b</IncludeOutputGroupsInVSIX>

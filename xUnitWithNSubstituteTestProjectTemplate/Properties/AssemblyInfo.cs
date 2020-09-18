@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("xUnitTestProjectTemplate")]
+[assembly: AssemblyTitle("xUnitWithNSubstituteTestProjectTemplate")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("J.Sakamoto")]
-[assembly: AssemblyProduct("xUnitTestProjectTemplate")]
+[assembly: AssemblyProduct("xUnitWithNSubstituteTestProjectTemplate")]
 [assembly: AssemblyCopyright("Copyright © J.Sakamoto 2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
